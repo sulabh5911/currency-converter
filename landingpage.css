@@ -1,0 +1,37 @@
+body {
+    padding-top: 56px;
+}
+.hero {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.hero h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: -89px;
+}
+.hero p{
+    position: relative;
+    top: -58px;
+}
+.hero a{
+    position: relative;
+    left: -55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.features {
+    padding: 50px 0;
+    background-color:#6cdac1;
+}
+.feature-icon {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
